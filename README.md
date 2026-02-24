@@ -3,7 +3,7 @@
 [View Full Project Report](project_climate.pdf)
 ## 📊 Project Output
 
-<a href="output.jpeg">
+<a href="image_climate.jpeg">
   <img src="output.jpeg" width="450">
 </a>
 
