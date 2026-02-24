@@ -1,5 +1,7 @@
 # Climate Regionalization of Kerala using Machine Learning
 
+[View Full Project Report](project_climate.pdf)
+
 ## Project Overview
 This project applies Principal Component Analysis (PCA) and K-Means clustering to regionalize the climate of Kerala using long-term IMD data (1951–2020).
 
