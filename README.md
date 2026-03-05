@@ -1,6 +1,6 @@
 # Climate Regionalization of Kerala using Machine Learning
 
-[View Full Project Report](project_climate.pdf)
+[View Full Project Report](project-climate.pdf)
 ## 📊 Project Output
 
 <a href="image_climate.jpeg">
